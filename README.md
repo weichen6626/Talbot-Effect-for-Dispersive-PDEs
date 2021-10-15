@@ -1,6 +1,6 @@
 # Talbot Effect for Dispersive PDEs
 
-*an Illinois Geometry Lab project*
+*a Sprint 2019 Illinois Geometry Lab project*
 
 Undergraduate researchers: Zhouzhen Cai, Wei-Chen Huang, Hui Lyu, and Spencer Rooke <br />
 Graduate Leader: George Shakan <br />
